@@ -26,7 +26,7 @@ I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innova
 1.  Developing drugs to manipulate autophagy and reduce protein toxicity in motor neuron disease.
 2.  Discovery of genetic biomarkers for motor neuron disease for patient stratification in clinical trials
 3.  Establishing MND cell models for evaluation of drug candidates
-4.  Supervising PhD students 
+4.  PhD student supervision
 
 
 My employment and research is currently funded by the [Racing for MNDi Foundation](https://www.racingformndi.com.au) and the Giumelli Family Foundation.
