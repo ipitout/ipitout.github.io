@@ -28,7 +28,7 @@ I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innova
 3.  Establishing MND cell models for evaluation of drug candidates
 4.  PhD student supervision
 
-
+Supervisiors: Professor Sue Fletcher, Professory Anthony Akkari and Professor Steve Wilton
 My employment and research is currently funded by the [Racing for MNDi Foundation](https://www.racingformndi.com.au) and the Giumelli Family Foundation.
 
 Key collaborators include:
