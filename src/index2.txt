@@ -1,0 +1,50 @@
+@def title = "Dr Ianthe Pitout"
+@def hasmath = true
+@def hascode = true
+<!-- Note: by default hasmath == true and hascode == false. You can change this in
+the config file by setting hasmath = false for instance and just setting it to true
+where appropriate -->
+
+# About me
+<!-- raw html to allow a responsive row  -->
+~~~
+<div class="row">
+  <div class="container">
+    <img class="left" src="/assets/pages/index/profile_picture.jpg" width="150" height="227">
+     <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
+
+
+I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innovative Therapeutics](https://www.murdoch.edu.au/research/institutes-centres/health-futures-institute/centre-for-molecular-medicine-and-innovative-therapeutics) Murdoch University and the [Motor Neuron Disease Genetics and Therapeutics laboratory](https://perroninstitute.org/neurological-disorder-research/neuroscience-genetic-therapies/) at the Perron Institute for Neurological and Translational Science in Perth, Western Australia. I have 6 years practical experience in the design and evaluation of antisense therapeutics in the world renowned Molecular Therapies laboratory of Professors Sue Fletcher and Steve Wilton, where I completed my PhD and am currently employed.  Innovations from my PhD research have contributed to the development of a molecule that is currently undergoing early phase commercialisation at [PYC Therapeutics](https://pyctx.com) (Perth, Australia) to treat an inherited retinopathy. Currently, I am committed to developing novel therapeutic strategies for neurodegenerative diseases, in particular motor neurone disease. I have also been establishing MND cell models to evaluate novel antisense oligonucleotide therapeutics for MND.
+ 
+
+
+### Current Roles
+
+1.  Developing drugs to manipulate autophagy and reduce protein toxicity in motor neuron disease.
+2.  Discovery of genetic biomarkers for motor neuron disease for patient stratification in clinical trials
+3.  Establishing MND cell models for evaluation of drug candidates
+4.  Supervising PhD students 
+
+
+My employment and research is currently funded by the [Racing for MNDi Foundation](https://www.racingformndi.com.au) and the Giumelli Family Foundation.
+
+Key collaborators include:
+*  Professor Alan Mackay-Sim, GRIDD
+*  A/Professor Bradley Turner, Florey Institute
+*  Dr Alex Cristino, GRIDD
+*  Dr Samantha Barton, Florey Institute
+
+
+### What am I working on?
+
+I am currently committed to drug discovery for motor neuron disease (MND) using a type of RNA drug called an antisense oligonucleotide. MND is a complex disease with huge diversity in causation. The aim of our laboratory is to target all aspects of motor neuron dysfunction to potentially help as many patients as possible. We are unique in our approach of combining drug development with genetic biomarker discovery to stratify patients into genetic subgroups for clinical trials. Our laboratory has several industry partners including, Sarepta Therapeutics, Black Swan Pharmaceuticals and PYC Therapeutics. 
+
+### How did I come to be here?
+
+My PhD research involved targeting disease modifiers for spinal muscular atrophy, a childhood form of motor neuron disease, and retinitis pigmentosa 11, an inherited retinopathy.
+My PhD research was undertaken in the laboratory of Professors Sue Fletcher and Steve Wilton, famous for the creation of eteplirsen, the first dystrophin enhancing therapeutic for Duchenne muscular dystrophy patients. Since completing my PhD, I have commenced projects to correct motor neuron dysfunction in MND, investigate novel structural variants as predictors of MND onset, severity and progression and lead our institute's MND cell model laboratory for drug evaluation.
+
+
