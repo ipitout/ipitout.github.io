@@ -17,7 +17,7 @@ where appropriate -->
 ~~~
 
 
-I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innovative Therapeutics](https://www.murdoch.edu.au/research/institutes-centres/health-futures-institute/centre-for-molecular-medicine-and-innovative-therapeutics) Murdoch University and the [Motor Neuron Disease Genetics and Therapeutics laboratory](https://perroninstitute.org/neurological-disorder-research/neuroscience-genetic-therapies/) at the Perron Institute for Neurological and Translational Science in Perth, Western Australia. I have 6 years practical experience in the design and evaluation of antisense therapeutics in the world renowned Molecular Therapies laboratory of Professors Sue Fletcher and Steve Wilton, where I completed my PhD and am currently employed.  Innovations from my PhD research have contributed to the development of a molecule that is currently undergoing early phase commercialisation at [PYC Therapeutics](https://pyctx.com) (Perth, Australia) to treat an inherited retinopathy. Currently, I am committed to developing novel therapeutic strategies for neurodegenerative diseases, in particular motor neurone disease. I have also been establishing MND cell models to evaluate novel antisense oligonucleotide therapeutics for MND.
+I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innovative Therapeutics](https://www.murdoch.edu.au/research/institutes-centres/health-futures-institute/centre-for-molecular-medicine-and-innovative-therapeutics) Murdoch University and the [Motor Neuron Disease Genetics and Therapeutics laboratory](https://perroninstitute.org/neurological-disorder-research/neuroscience-genetic-therapies/) at the Perron Institute for Neurological and Translational Science in Perth, Western Australia. I have 6 years practical experience in the design and evaluation of antisense therapeutics in the world renowned Molecular Therapies laboratory of Professors Sue Fletcher and Steve Wilton, where I completed my PhD.  Innovations from my PhD research have contributed to the development of a molecule that is currently undergoing early phase commercialisation at [PYC Therapeutics](https://pyctx.com) (Perth, Australia) to treat an inherited retinopathy. Currently, I am committed to developing novel therapeutic strategies for neurodegenerative diseases, in particular motor neurone disease in the MND laboratories of Professors Anthony Akarri and Sue Fletcher. I have also been establishing MND cell models to evaluate novel antisense oligonucleotide therapeutics for MND.
  
 
 
@@ -26,15 +26,14 @@ I am a postdoctoral researcher at the [Centre for Molecular Medicines and Innova
 1.  Developing drugs to manipulate autophagy and reduce protein toxicity in motor neuron disease.
 2.  Discovery of genetic biomarkers for motor neuron disease for patient stratification in clinical trials
 3.  Establishing MND cell models for evaluation of drug candidates
-4.  PhD student supervision
+4.  Supervising PhD students 
 
-Supervisiors: Professor Sue Fletcher, Professory Anthony Akkari and Professor Steve Wilton
+
 My employment and research is currently funded by the [Racing for MNDi Foundation](https://www.racingformndi.com.au) and the Giumelli Family Foundation.
 
 Key collaborators include:
 *  Professor Alan Mackay-Sim, GRIDD
 *  A/Professor Bradley Turner, Florey Institute
-*  Dr Archa Fox, University of Western Australia
 *  Dr Alex Cristino, GRIDD
 *  Dr Samantha Barton, Florey Institute
 
